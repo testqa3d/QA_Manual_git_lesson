@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+
+<html lang="uk">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes">
+<meta name="HandheldFriendly" content="True">
+<title>Лікувальні властивості буряка. Народна медицина. Здоров'я - Новини Рівного. Відео on-line. Все про телекомпанію - Телеканал «Рівне 1»</title> 
+<meta name="description" content="Буряк бореться з раком, бадьорить, покращує зір і знижує кров'яний тиск. Корисні властивості столового буряка робить  його гідним вашого раціону харчування. Листя буряка смаком схожі на шпинат і дуже поживні. Листя добре зберігаються в холодильнику і вживаються гурманами в свіжому вигляді, з додаванням невеликої кількості рослинного масла, соку лимона або лайма, приправлені спеціями. " />
+<meta name="keywords" content="" />
+
+<meta property="og:site_name" content="Лікувальні властивості буряка. Народна медицина. Здоров'я - Новини Рівного. Відео on-line. Все про телекомпанію - Телеканал «Рівне 1»" />
+<meta property="og:title" content="Лікувальні властивості буряка. Народна медицина. Здоров'я - Новини Рівного. Відео on-line. Все про телекомпанію - Телеканал «Рівне 1»" />
+<meta property="og:description" content="Буряк бореться з раком, бадьорить, покращує зір і знижує кров'яний тиск. Корисні властивості столового буряка робить  його гідним вашого раціону харчування. Листя буряка смаком схожі на шпинат і дуже поживні. Листя добре зберігаються в холодильнику і вживаються гурманами в свіжому вигляді, з додаванням невеликої кількості рослинного масла, соку лимона або лайма, приправлені спеціями. " />
+<meta property="og:image" content="https://rivne1.tv/pics2/2005/i114039.jpg?1590734478" />
+<meta name="twitter:image" content="https://rivne1.tv/pics2/2005/i114039.jpg?1590734478">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://rivne1.tv/news/114039-likuvalni-vlastivosti-buryaka">
+<meta property="fb:admins" content="100001560221699" />
+<meta property="fb:app_id" content="452486885205132" />
+
+	<!--<link rel="stylesheet" href="/css/style.css?22">-->
+	<link rel="stylesheet" href="/css/style.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/css/reject.css" media="all">
+	<![endif]-->
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/images/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+    		
+		  <link href="https://rivne1.tv/news/114039-likuvalni-vlastivosti-buryaka" rel="canonical">
+      
+	<script src="/javascript/jquery-2.2.0.min.js"></script>
+	<!--<script src="https://cdn.gravitec.net/storage/c1bfafd23477ff26fb77423ade5424f6/client.js" async></script>-->
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRF38F7QZR"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-MRF38F7QZR');
+		</script>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-45219962-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-45219962-1');
+        </script>
+<!-- Hotjar Tracking Code for https://rivne1.tv/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1639906,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+        <div id="fb-root"></div>
+<!--
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v4.0&appId=188654804538359&autoLogAppEvents=1"></script>
+-->
+	                         
+	<div class="hel" itemscope itemtype="http://schema.org/Organization">
+		<span itemprop="name">Новини Рівного. Відео on-line. Все про телекомпанію - Телеканал «Рівне 1»</span>
+		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">     
+			<span itemprop="postalCode">33001</span>
+		    <span itemprop="addressLocality">Україна, Рівне</span>
+		    <span itemprop="streetAddress">Петра Могили, 28 Г</span>
+  		</div>
+  		<span itemprop="telephone">096-11-400-11</span>
+  		<span itemprop="telephone"></span>
+		<span itemprop="telephone"></span>
+		<span itemprop="email"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="076e69616847756e71696236297371">[email&#160;protected]</a></span>
+	</div>
+	<header data-canvas="" class="fixed-header">
+		<div class="header__top">
+			<!-- CONTAINER -->
+			<div class="container">
+				<span class="toggle-nav toggle-left">
+					<i></i>
+					<i></i>
+					<i></i>
+				</span>
+				<a href="/" class="logo-company" title="Новини Рівного. Відео on-line. Все про телекомпанію - Телеканал «Рівне 1»">
+					<img class="logo-img" src="/images/logo-company.png" alt="Новини Рівного. Відео on-line. Все про телекомпанію - Телеканал «Рівне 1»1" width="124" height="22">
+				</a>
+				<nav class="nav-styles main-nav">
+					<ul>
+						<!-- Новини -->
+					 					                                        
+                                             <li  >
+                                                <a href="/category/61-novini">Новини</a>
+                                               
+                                            </li>
+                         
+                                                                                
+								<!-- Патруль -->
+					 					                                        
+                                             <li   >
+                                                <a href="/category/23-patrul">Патруль</a>
+                                                                                             </li>
+                         
+                                           
+                                        
+
+								<!-- Проекти -->
+					 					                                        
+                                             <li class="has-sub"  >
+                                                <a href="/category/24-proekti"> Проекти</a>
+                                                                                                 <i></i>
+                                                    <ul class="sub">
+                                                                                                      	                                                        <li>
+                                                           <a href="/category/velika-nezalezhnist">Велика Незалежність</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/514-pershiy-rozvazhalniy">Перший розважальний</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/220-rodinniy-portal-rivne-1"> Родинний портал «Рівне 1» </a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/32-svyatkovi-kanikuli">Свята і традиції</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/437-profibud">ПрофіБуд</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/219-kastinh-na-rivne-1"> Кастинг на «Рівне 1» </a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/670-surenzh">Суренж</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/116-arkhiv"> Архів</a>
+                                                        </li>
+                                                                                                         </ul>
+                                                                                            </li>
+                         
+                                        
+
+							
+
+								<!-- Порадник -->
+
+					 					                                        
+                                             <li class="has-sub"  >
+                                                <a href="/category/519-poradnik"> Порадник</a>
+                                                                                                 <i></i>
+                                                    <ul class="sub">
+                                                                                                      	                                                        <li>
+                                                           <a href="/category/522-hospodini">Дім</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/520-veseliy-hazda">Сад і город</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/524-vashi-retsepti">Рецепти</a>
+                                                        </li>
+                                                                                                        	                                                        <li>
+                                                           <a href="/category/564-horoskop">Гороскоп</a>
+                                                        </li>
+                                                                                                         </ul>
+                                                                                            </li>
+                         
+                                        
+
+
+                                            <!-- Здорово жити -->
+
+                                                            
+                                             <li class="has-sub"  >
+                                                <a href="/category/218-zdorovo-zhiti">Здоров'я</a>
+                                                                                                 <i></i>
+                                                    <ul class="sub">
+                                                                                               
+                                                        <li>
+                                                           <a href="/category/370-zdorovya">Діти</a>
+                                                        </li>
+                                                                                                 
+                                                        <li>
+                                                           <a href="/category/391-zdorovya">Лікування</a>
+                                                        </li>
+                                                                                                 
+                                                        <li>
+                                                           <a href="/category/392-narodna-meditsina">Народна медицина</a>
+                                                        </li>
+                                                                                                 
+                                                        <li>
+                                                           <a href="/category/394-krasa">Мода і Краса</a>
+                                                        </li>
+                                                                                                 
+                                                        <li>
+                                                           <a href="/category/seks">Секс</a>
+                                                        </li>
+                                                                                                 
+                                                        <li>
+                                                           <a href="/category/psikholohiya">Психологія</a>
+                                                        </li>
+                                                                                                         </ul>
+                                                                                            </li>
+                         
+                                            
+
+
+                        <!-- Телеканал -->
+                                                            
+                                             <li class="has-sub"  >
+                                                <a href="/category/6-prohrami">Телеканал</a>
+                                                                                                 <i></i>
+                                                    <ul class="sub">
+                                                                                                                                                               <li>
+                                                           <a href="/category/665-bez-tsenzuri">Без цензури</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/726-bibliya-hovorit">Біблія говорить</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/portreti-heroiv">Портрети Героїв</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/meditsina-sohodennya">Медицина сьогодення</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/397-zdorovo-zhiti">Здорово жити</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/novatori-i-motivatori">Новатори і мотиватори</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/davayte-perevirimo">Давайте перевіримо</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/3-dorechno">Доречно</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/11-na-chasi">На часі</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/222-translyatsii">   Трансляції</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/176-arkhiv">Архів</a>
+                                                        </li>
+                                                                                                                                                                 <li>
+                                                           <a href="/category/vsi-svoi">Всі свої</a>
+                                                        </li>
+                                                                                                         </ul>
+                                                                                            </li>
+                         
+                                        										
+										  <!-- FaceКонтроль -->
+                  <li><a href="/facecontrol">FaceКонтроль</a></li>
+
+					</ul>
+				</nav>
+				<div class="header__add-1">
+					<span>гаряча лiнiя</span>
+					<a href="tel:096-11-400-11">096-11-400-11</a>
+				</div>
+				<a href="/online" class="live-btn">Online</a>
+				<div class="header__add-2">
+					<span class="toggle-search-form"></span>
+					<div class="social">
+						<a href="https://www.youtube.com/user/TVRivne1" class="social__youtube"></a>
+						<a href="https://www.facebook.com/rivne1/" class="social__facebook"></a>
+						<a href="https://www.instagram.com/rivne1tv/" class="social__instagram"></a>
+						<a href="https://t.me/rivne1_news" target="_blank" class="social__telegram"></a>
+					</div>
+				</div>
+			</div><!-- END CONTAINER -->
+		</div>
+				</header>
+	<!-- CLOSE ANY CONTENT -->
+	<div data-canvas="container" class="close-any">
+		<!-- WRAPPER -->
+		<div class="wrapper">
+			<main>
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" defer></script><script>
+  //views counter
+  $(document).ready(function () {
+    $.ajax({
+      type: "POST",
+      url: "/news/viewscounter",
+      data: ({
+        id: "114039"
+      }),
+      });
+  });
+</script>
+<script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage":{
+            "@type": "WebPage",
+            "@id": "https://rivne1.tv/news/114039-likuvalni-vlastivosti-buryaka"
+        },
+        "headline": "Лікувальні властивості буряка — Телеканал «Рівне 1»",
+        "keywords": "",
+		"articleBody": "Сирий буряк швидше лікувальний овоч, а не простий повсякденний коренеплід. Рекомендується віджимати сік з буряка з використанням холодного віджиму. Буряковий сік розбавляють морквою і яблуками, отримуючи цілющий мультифруктовий-овочевий напій, багатий вітамінами, макро- і мікроелементами і різними ферментами. Буряк: корисні властивості та застосування Можна виділити, як мінімум, вісім причин для включення червоного буряка в свій щоденний раціон харчування: Буряковий сік має лужну реакцію, запобігаючи ацидоз, джерело багатьох захворювань людини. Сік буряка стимулює регенерацію клітин печінки, очищає і захищає жовчні протоки, покращує роботу нирок, допомагаючи вилікувати подагру, діє як проносне, допомагаючи при запорах. Буряк очищає кров, стимулюючи утворення червоних кров`яних тілець. Так як дефіцит червоних кров`яних клітин з`являється при анемії, то щоденне вживання буряка допомагає при комплексному лікуванні анемії, лейкемії та інших видів раку. Для здорового організму будуть корисні протиракові властивості столового буряка. Червоний буряк (коренеплід і бадилля) цінне джерело фолату. Фолат - це основа для утворення натуральної фолієвої кислоти. Фолієва кислота омолоджує тканини організму і стимулює утворення червоних кров`яних тілець. Особливо корисна фолієва кислота з буряка для вагітних жінок, набагато корисніше, ніж фолієва кислота отримана синтетично. Щоденне вживання буряка дозволяє виключити добавки фолієвої кислоти отриманої штучно. Лютеїн і зеаксантин містяться в червоному буряку у великій кількості, допомагаючи загальмувати і навіть вилікувати макулярную дегенерацію і інші хвороби очей, допомагаючи людям похилого віку впоратися з проблемами із зором. Буряк володіє сильними антиоксидантними, протизапальними властивостями. Овоч використовується для проведення детоксикації організму, завдяки наявності фитонутриентів. Буряк корисний при гіпертонії - знижує кров`яний тиск на 7-10%, підтримує еластичність кровоносних судин, лікує варикозне розширення вен. Червоний буряк містить калій, магній, кальцій, ніацин, залізо і біотин, багатий клітковиною. Буряковий сік Про цілющі властивості бурякового соку відомо давно. Він знижує артеріальний тиск, збагачує організм вітамінами С, А, В9, надає противосклеротичну дію і протидіє ожирінню печінки. Експерименти виявили: буряковий сік має ефект енергетичного напою, збільшуючи витривалість людського організму на 16%. Вживання чистого соку буряка, особливо в великих кількостях, може викликати нудоту або запаморочення. До звикання організму спочатку краще змішувати буряковий сік з морквяним, черносмородиновим або будь-яким іншим ягідним. Тоді і неприємних відчуттів не буде, і користь буде подвійна.",
+        		"author": {
+            "@type": "Organization",
+            "name": "Телеканал «Рівне 1»",
+            "email": "info@rivne1.tv",
+			"telephone": "+380362623501",			
+            "url": "https://rivne1.tv/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rivne1.tv/images/favicon/favicon-96x96.png",
+                "width": 60,
+                "height": 60
+            }
+        },         "publisher": {
+            "@type": "Organization",
+            "name": "Телеканал «Рівне 1»",
+            "email": "info@rivne1.tv",
+			"telephone": "+380362623501",			
+            "url": "https://rivne1.tv/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rivne1.tv/images/favicon/favicon-96x96.png",
+                "width": 60,
+                "height": 60
+            }
+        },
+					
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://rivne1.tv/pics2/2005/i114039.jpg?1590734478",
+            "width": 1200,
+			"height": 856	
+        },
+        "datePublished": "2020-05-29T09:39:16+02:00",
+        "dateModified": "2020-05-29T09:39:16+02:00"
+		,"description" : "Буряк бореться з раком, бадьорить, покращує зір і знижує кров`яний тиск. Корисні властивості столового буряка робить  його гідним вашого раціону харчування. Листя буряка смаком схожі на шпинат і дуже поживні. Листя добре зберігаються в холодильнику і вживаються гурманами в свіжому вигляді, з додаванням невеликої кількості рослинного масла, соку лимона або лайма, приправлені спеціями. "
+        		}
+</script>
+              
+        <!-- CONTAINER --> 
+        <div class="container"> 
+                                               
+                       
+                  
+                    
+                     <div class="info"> 
+                       <a href="https://happy.rv.ua/" rel="nofollow" target="_blank" onclick="stat('98')"> <img src="/img/20260330124003_5398.jpg" alt=""> </a> 
+                      </div> 
+                 
+
+
+                 
+                 
+				<div itemscope="" itemtype="http://schema.org/BreadcrumbList">
+					  <ul class="breadcrumbs style-4" style="margin-top:20px;"> 
+
+						<li> 
+							<span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+								<a href="/" itemprop="item"> <span itemprop="name">Головна</span></a> 
+								<meta itemprop="position" content="1">
+							</span>	
+						</li> 
+							  								  <li>
+									<span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">								  
+										<a href="/category/218-zdorovo-zhiti" itemprop="item"> <span itemprop="name">Здоров'я</span></a>
+										<meta itemprop="position" content="2">										
+									</span>
+								  </li> 
+							  								  <li>
+									<span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">								  
+										<a href="/category/392-narodna-meditsina" itemprop="item"> <span itemprop="name">Народна медицина</span></a>
+										<meta itemprop="position" content="3">										
+									</span>
+								  </li> 
+							   
+
+						<li>Лікувальні властивості буряка</li> 
+
+
+					  </ul> 
+				</div>
+
+          
+
+
+          <article class="article"> 
+           <h1>Лікувальні властивості буряка</h1> 
+            <div class="content content-1"> 
+              <div class="content__main">          
+                <div class="article__add"> 
+                  <div> 
+                    <span class="article--pubdate">29.05.20</span>
+                    					, <span class="article--view">39220 переглядів</span> 
+                  </div> 
+                                  </div> 
+                <div class="articleBody"> 
+                    <img src="/pics2/2005/i114039.jpg?1590734478" alt="">  
+                      
+                    
+                      <div class="info">
+					                                                         
+                                          	<a href="https://starland.school/" class="info" target="_blank"  onclick="stat('114')">
+                                              <img src="/img/20260401153042_1701.jpg" alt="">
+                                          </a>
+									     
+                                                                                                                           
+										                         
+					</div>
+                 
+                       <div class="intro-news"> Буряк бореться з раком, бадьорить, покращує зір і знижує кров'яний тиск. Корисні властивості столового буряка робить  його гідним вашого раціону харчування. Листя буряка смаком схожі на шпинат і дуже поживні. Листя добре зберігаються в холодильнику і вживаються гурманами в свіжому вигляді, з додаванням невеликої кількості рослинного масла, соку лимона або лайма, приправлені спеціями. </div> 
+                  
+                  <p> 
+
+                    <p>Сирий буряк швидше лікувальний овоч, а не простий повсякденний коренеплід. Рекомендується віджимати сік з буряка з використанням холодного віджиму. Буряковий сік розбавляють морквою і яблуками, отримуючи цілющий мультифруктовий-овочевий напій, багатий вітамінами, макро- і мікроелементами і різними ферментами.</p>
+<h3>Буряк: корисні властивості та застосування</h3>
+<p><img src="/images/буряк2.jpg" width="587" height="440" alt="" /></p>
+<p><strong>Можна виділити, як мінімум, вісім причин для включення червоного буряка в свій щоденний раціон харчування</strong>:</p>
+<ul>
+    <li>Буряковий сік має лужну реакцію, запобігаючи ацидоз, джерело багатьох захворювань людини.</li>
+    <li>Сік буряка стимулює регенерацію клітин печінки, очищає і захищає жовчні протоки, покращує роботу нирок, допомагаючи вилікувати подагру, діє як проносне, допомагаючи при запорах.</li>
+    <li>Буряк очищає кров, стимулюючи утворення червоних кров'яних тілець. Так як дефіцит червоних кров'яних клітин з'являється при анемії, то щоденне вживання буряка допомагає при комплексному лікуванні анемії, лейкемії та інших видів раку. Для здорового організму будуть корисні протиракові властивості столового буряка.</li>
+</ul>
+<p>Червоний буряк (коренеплід і бадилля) цінне джерело фолату. Фолат - це основа для утворення натуральної фолієвої кислоти. Фолієва кислота омолоджує тканини організму і стимулює утворення червоних кров'яних тілець. Особливо корисна фолієва кислота з буряка для вагітних жінок, набагато корисніше, ніж фолієва кислота отримана синтетично. Щоденне вживання буряка дозволяє виключити добавки фолієвої кислоти отриманої штучно.</p>
+<p>Лютеїн і зеаксантин містяться в червоному  буряку у великій кількості, допомагаючи загальмувати і навіть вилікувати макулярную дегенерацію і інші хвороби очей, допомагаючи людям похилого віку впоратися з проблемами із зором.</p>
+<p>Буряк володіє сильними антиоксидантними, протизапальними властивостями. Овоч використовується для проведення детоксикації організму, завдяки наявності фитонутриентів.</p>
+<p>Буряк корисний при гіпертонії - знижує кров'яний тиск на 7-10%, підтримує еластичність кровоносних судин, лікує варикозне розширення вен.</p>
+<p>Червоний буряк містить калій, магній, кальцій, ніацин, залізо і біотин, багатий клітковиною.</p>
+<h3>Буряковий сік&nbsp;</h3>
+<p><img src="/images/буряк3.jpg" width="550" height="320" alt="" /></p>
+<p>Про цілющі властивості бурякового соку відомо давно. Він знижує артеріальний тиск, збагачує організм вітамінами С, А, В9, надає противосклеротичну дію і протидіє ожирінню печінки.</p>
+<p>Експерименти виявили: буряковий сік має ефект енергетичного напою, збільшуючи витривалість людського організму на 16%.</p>
+<p>Вживання чистого соку буряка, особливо в великих кількостях, може викликати нудоту або запаморочення. До звикання організму спочатку краще змішувати буряковий сік з морквяним, черносмородиновим або будь-яким іншим ягідним. Тоді і неприємних відчуттів не буде, і користь буде подвійна.</p> 
+                     
+ 
+                  </p> 
+                </div> 
+             <div class="list-1 list-st-1 decor-1 article__gallery"> 
+                    
+                                                 
+                   
+               
+
+              </div> 
+              
+              
+              
+              
+              
+              
+              
+                            
+      
+              
+			  <div class="subscribe-block">
+				  <center><p><b>
+						Ми прагнемо ділитися з Вами ще більшою кількістю новин та цікавих матеріалів. Будемо раді бачити та спілкуватися з Вами на наших сторінках у</b></p></center>
+							<div class="social-links-block">
+								<a class="icon-telegram" href="https://t.me/rivne1_news" target="_blank"><img src="/images/social-icons/telegram.svg" alt="«Рівне 1» в Telegram">Telеgram</a>
+								<a class="icon-facebook" href="https://www.facebook.com/rivne1/" target="_blank"><img src="/images/social-icons/facebook.svg" alt="«Рівне 1» у Facebook">Facebook</a>
+								<a class="icon-youtube" href="https://www.youtube.com/user/TVRivne1/" target="_blank"><img src="/images/social-icons/youtube.svg" alt="«Рівне 1» на YouTube">YouTube</a>
+								<a class="icon-instagram" href="https://www.instagram.com/rivne1tv/" target="_blank"><img src="/images/social-icons/instagram.svg" alt="«Рівне 1» в Instagram">Instagram</a>
+								<!--<a class="icon-viber" href="https://invite.viber.com/?g2=AQA374m4cka13kl2WFfkmLFKj7cRcS88eeD3l4sFbv%2BpCMclJX%2B2CDP0LNsKZ6KR&lang=ru" target="_blank"><img src="/images/social-icons/viber.svg" alt="«Рівне 1» в Viber">Viber</a>-->
+								<a class="icon-tiktok" href="https://www.tiktok.com/@rivne1tv" target="_blank"><img src="/images/social-icons/tiktok.svg" alt="«Рівне 1» в Tik Tok">Tik Tok</a>
+							</div>
+
+						<center>
+						<p><b>Працюємо для Вас! Оперативно, правдиво, з любов’ю!</b></p>
+						<p><b>Дякуємо за довіру! Нам цінний зв’язок з Вами!</b></p>
+						</center></div>				  
+                 <div style="margin-bottom: 20px;">
+       
+<div class="fb-share-button" data-href="/news/114039-likuvalni-vlastivosti-buryaka" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Поширити</a></div>
+                  
+              
+
+                               
+                  </div>
+                 
+                 
+
+					 
+                    
+                     <div class="info"> 
+                 <!--      <a href="" rel="nofollow" onclick="stat('')" target="_blank"> <img src="/img/" alt=""> </a> -->
+					   
+					    
+                                      
+                                          
+                                           <!-- Composite Start --> <div id="M783829ScriptRootC1385411"></div> <script src="https://jsc.mgid.com/r/i/rivne1.tv.1385411.js" async></script> <!-- Composite End --> 
+                                     
+
+                      </div> 
+                				
+				<!-- ad id 15 --->
+				
+				 
+                    
+                     <div class="info"> 
+                 <!--      <a href="" rel="nofollow" onclick="stat('')" target="_blank"> <img src="/img/" alt=""> </a> -->
+					   
+					    
+                                      
+                                          
+                                           <div class="r24024"></div> <script type="text/javascript">     (function() {         var date = new Date();          try {             date = new Date(date.toLocaleString(`en-US`, {                 timeZone: `Europe/Kiev`}             ));         } catch (e) {}          var ext = [             (date.getFullYear()).toString(),             (`0`+(date.getMonth()+1).toString()).substr(-2),             (`0`+(date.getDate()).toString()).substr(-2)         ].join(``);          var tag = (function() {                 var informers = document.getElementsByClassName(`r24024`),                     len = informers.length;                 return len ? informers[len - 1] : null;             })(),             idn = (function() {                 var i, num, idn = ``, chars = "abcdefghiklmnopqrstuvwxyz",                     len = Math.floor((Math.random() * 2) + 4);                 for (i = 0; i < len; i++) {                     num = Math.floor(Math.random() * chars.length);                     idn += chars.substring(num, num + 1);                 }                 return idn;             })();         var container = document.createElement(`div`);             container.id = idn;         tag.appendChild(container);         var script = document.createElement(`script`);             script.className = `s24024`;             script.src = `https://mediabrama.com/shop/j/24024/?v=1?date=`+ ext;             script.charset = `utf-8`;             script.dataset.idn = idn;         tag.parentNode.insertBefore(script, tag);     })(); </script> 
+                                     
+
+                      </div> 
+                 
+
+
+                <div id="fb-root"></div> 
+                <script>(function(d, s, id) { 
+                  var js, fjs = d.getElementsByTagName(s)[0]; 
+                  if (d.getElementById(id)) return; 
+                  js = d.createElement(s); js.id = id; 
+                  js.src = 'https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&autoLogAppEvents=1&version=v3.2&appId=188654804538359'; 
+                  fjs.parentNode.insertBefore(js, fjs); 
+                }(document, 'script', 'facebook-jssdk'));</script> 
+                <div class="fb-comments" data-href="https://rivne1.tv/news/114039-likuvalni-vlastivosti-buryaka" data-width="100%" data-numposts="5"></div>
+
+
+
+                   
+
+                   
+          
+                    <section class="section-1"> 
+                      <div class="section-add"> 
+                        <h3>Інші статті:</h3> 
+                      </div> 
+                      <div class="list-1 list-st-1 decor-1 decor-2 decor-3"> 
+                       
+               
+               
+                         
+                      <div> 
+                        <a href="/news/116961-yaki-produkti-potribno-unikati-pri-pechii"> 
+                          <span>30.08.20</span> 
+                          <div class="img-wr"> 
+                            <img src="/pics2/2008/i116961s.мед1.jpg?1598795428" alt=""> 
+                          </div> 
+                          <strong>Які продукти потрібно уникати при печії? </strong> 
+                        </a> 
+                      </div> 
+                                    
+                      <div> 
+                        <a href="/news/116643-ochishchennya-pechinki-vid-shlakiv-i-toksiniv-v-domashnikh-umovakh"> 
+                          <span>20.08.20</span> 
+                          <div class="img-wr"> 
+                            <img src="/pics2/2008/i116643s.jpg?1597915814" alt=""> 
+                          </div> 
+                          <strong>Очищення печінки від шлаків і токсинів в домашніх умовах </strong> 
+                        </a> 
+                      </div> 
+                                    
+                      <div> 
+                        <a href="/news/116189-korisni-vlastivosti-kukurudzi"> 
+                          <span>07.08.20</span> 
+                          <div class="img-wr"> 
+                            <img src="/pics2/2008/i116189s.jpeg?1596708432" alt=""> 
+                          </div> 
+                          <strong>Корисні властивості кукурудзи</strong> 
+                        </a> 
+                      </div> 
+                                    
+                      <div> 
+                        <a href="/news/116188-lokhina-korist-i-shkoda-dlya-zdorovya"> 
+                          <span>06.08.20</span> 
+                          <div class="img-wr"> 
+                            <img src="/pics2/2008/i116188s.jpg?1596708261" alt=""> 
+                          </div> 
+                          <strong>Лохина: користь і шкода для здоров'я</strong> 
+                        </a> 
+                      </div> 
+                                    
+                      <div> 
+                        <a href="/news/116017-krasiva-shkira-i-zdoroviy-kishechnik-chim-korisniy-abrikos"> 
+                          <span>31.07.20</span> 
+                          <div class="img-wr"> 
+                            <img src="/pics2/2007/i116017s.jpg?1596192673" alt=""> 
+                          </div> 
+                          <strong>Красива шкіра і здоровий кишечник. Чим корисний абрикос?</strong> 
+                        </a> 
+                      </div> 
+                                    
+                      <div> 
+                        <a href="/news/115728-komu-ne-mozhna-isti-nektarini"> 
+                          <span>23.07.20</span> 
+                          <div class="img-wr"> 
+                            <img src="/pics2/2007/i115728s.jpg?1595420911" alt=""> 
+                          </div> 
+                          <strong>Кому не можна їсти нектарини</strong> 
+                        </a> 
+                      </div> 
+                                      
+                      </div> 
+                    </section> 
+                  
+
+
+                <div class="list-3 list-st-4 decor-1 decor-3"> 
+                
+           
+                                 
+                               <div> 
+                                    <a href="/news/171895-rivne-poproshchaetsya-iz-polehlim-zakhisnikom-volodimirom-tsyupkom"> 
+                                      <div class="img-wr"> 
+                                        <img src="/pics2/2604/i171895s.jpg" alt=""> 
+                                      </div> 
+                                        
+                                      <em class="category-title category-title-1">Патруль</em> 
+                          
+                                        <div class="list-3__content"> 
+                                        <span>15.04.26</span> 
+                                        <strong>  Рівне попрощається із полеглим захисником Володимиром Цюпком</strong> 
+                                      </div> 
+                                    </a> 
+                              </div> 
+                              
+                               <div> 
+                                    <a href="/news/171891-na-rivnenshchini-pislya-10-dniv-poshukiv-u-richtsi-horin-znayshli-tilo-4richnoho-khlopchika"> 
+                                      <div class="img-wr"> 
+                                        <img src="/pics2/2604/i171891s.jpg" alt=""> 
+                                      </div> 
+                                        
+                                        <div class="list-3__content"> 
+                                        <span>15.04.26</span> 
+                                        <strong>  На Рівненщині після 10 днів пошуків у річці Горинь знайшли тіло 4-річного хлопчика</strong> 
+                                      </div> 
+                                    </a> 
+                              </div> 
+                              
+                               <div> 
+                                    <a href="/news/171884-u-zdolbunovi-stalasya-pozhezha-v-privatnomu-budinku-obiyshlosya-bez-postrazhdalikh"> 
+                                      <div class="img-wr"> 
+                                        <img src="/pics2/2604/i171884s.jpg" alt=""> 
+                                      </div> 
+                                        
+                                        <div class="list-3__content"> 
+                                        <span>15.04.26</span> 
+                                        <strong>  У Здолбунові сталася пожежа в приватному будинку: обійшлося без постраждалих</strong> 
+                                      </div> 
+                                    </a> 
+                              </div> 
+                                
+                </div> 
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-format="autorelaxed"
+					 data-ad-client="ca-pub-1004822577039825"
+					 data-ad-slot="5948995675"></ins>
+				<script>
+					 (adsbygoogle = window.adsbygoogle || []).push({});
+				</script>				
+              </div> 
+              <aside class="content__aside"> 
+
+
+                                                                                                   
+                                              <img src="/img/20260319150449_4617.png" alt="">
+
+									     
+                                                                                                                           
+										   
+
+                  			  
+				           
+     <!--  2022-01-20 Читачi рекомендують       
+				<section> 
+                  <h3>Читачi рекомендують</h3> 
+                  <ul class="list-st-10 style-3"> 
+                  
+            
+           
+                       
+                    </li>  
+                         <li> 
+                      <a href="/news/"> 
+                        <strong></strong> 
+                      </a> 
+                    </li> 
+                             
+                  </ul> 
+                </section> 
+		-->		
+                  
+
+         
+                <section class="section-3 news-section">  
+                  <h2>НОВИНИ</h2> 
+                  <ul class="list-st-3 decor-3 decor-4"> 
+                           
+                      
+                                                               
+                
+                                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171894-prohnoz-pohodi-na-rivnenshchini-1619-kvitnya-pokhmuri-budni-ta-doshchovi-vikhidni" >
+                          <span>21:00</span>
+                          <strong>
+                            Прогноз погоди на Рівненщині 16–19 квітня: похмурі будні та дощові вихідні                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171892-u-malomu-midsku-zustrili-zakhisnika-oleksandra-krupenyu-yakiy-povernuvsya-z-polonu" >
+                          <span>20:00</span>
+                          <strong>
+                            У Малому Мидську зустріли захисника Олександра Крупеню, який повернувся з полону                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171895-rivne-poproshchaetsya-iz-polehlim-zakhisnikom-volodimirom-tsyupkom" >
+                          <span>20:00</span>
+                          <strong>
+                            Рівне попрощається із полеглим захисником Володимиром Цюпком                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171890-pomitni-zdaleku-ta-vilni-vid-avto-u-rivnomu-rozbudovuyut-merezhu-nazemnikh-hidrantiv-video" >
+                          <span>19:30</span>
+                          <strong>
+                            Помітні здалеку та вільні від авто: у Рівному розбудовують мережу наземних гідрантів (ВІДЕО)                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171893-bibliya-hovorit-pastor-rozpovidae-pro-shlyakh-do-spasinnya" >
+                          <span>19:00</span>
+                          <strong>
+                            Біблія говорить: Пастор розповідає про шлях до спасіння                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171888-dva-misyatsi-ochikuvannya-pozadu-yak-rivnenskiy-veres-u-bitvi-za-shist-ochok-zdolav-obolon-video" >
+                          <span>18:00</span>
+                          <strong>
+                            Два місяці очікування позаду: як рівненський "Верес" у битві за шість очок здолав "Оболонь" (ВІДЕО)                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class="has-photo ">
+                        <a href="/news/171891-na-rivnenshchini-pislya-10-dniv-poshukiv-u-richtsi-horin-znayshli-tilo-4richnoho-khlopchika" >
+                          <span>17:30</span>
+                          <strong>
+                            На Рівненщині після 10 днів пошуків у річці Горинь знайшли тіло 4-річного хлопчика                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171887-u-rivnomu-poproshchalisya-iz-zakhisnikom-ukraini-vitaliem-dranovskim-video" >
+                          <span>17:00</span>
+                          <strong>
+                            У Рівному попрощалися із захисником України Віталієм Драновським (ВІДЕО)                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171884-u-zdolbunovi-stalasya-pozhezha-v-privatnomu-budinku-obiyshlosya-bez-postrazhdalikh" >
+                          <span>16:30</span>
+                          <strong>
+                            У Здолбунові сталася пожежа в приватному будинку: обійшлося без постраждалих                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171885-na-rivnenshchini-za-dobu-vihorilo-36-hektariv-sukhoi-travi-cherez-pozhezhi-v-ekosistemakh" >
+                          <span>16:00</span>
+                          <strong>
+                            На Рівненщині за добу вигоріло 3,6 гектарів сухої трави через пожежі в екосистемах                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li class=" has-video">
+                        <a href="/news/171886-mama-trokh-ditey-yaka-obrala-front-rivnenshchina-poproshchalasya-z-medikineyu-olenoyu-rusanovoyu-video" >
+                          <span>15:30</span>
+                          <strong>
+                            Мама трьох дітей, яка обрала фронт: Рівненщина попрощалася з медикинею Оленою Русановою (ВІДЕО)                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171883-na-rivnenshchini-patrulni-viyavili-dvokh-netverezikh-vodiiv-za-kermom-vaziv" >
+                          <span>15:00</span>
+                          <strong>
+                            На Рівненщині патрульні виявили двох нетверезих водіїв за кермом ВАЗів                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171882-na-rivnenshchini-cherez-sud-derzhavi-povernuli-186-ha-zemel-lisovoho-fondu" >
+                          <span>14:30</span>
+                          <strong>
+                            На Рівненщині через суд державі повернули 18,6 га земель лісового фонду                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171881-na-rivnenshchini-sud-zasudiv-matir-do-2-rokiv-uvyaznennya-za-nenalezhniy-dohlyad-za-ditinoyu" >
+                          <span>14:00</span>
+                          <strong>
+                            На Рівненщині суд засудив матір до 2 років ув’язнення за неналежний догляд за дитиною                          </strong>
+                        </a>
+                      </li> 
+                             
+                                                               
+                
+                                                   
+                 
+                
+                      
+                      <li >
+                        <a href="/news/171880-na-rivnenshchini-na-pidpriemstvi-vodiy-navantazhuvacha-smertelno-travmuvav-pratsivnitsyu" >
+                          <span>13:30</span>
+                          <strong>
+                            На Рівненщині на підприємстві водій навантажувача смертельно травмував працівницю                          </strong>
+                        </a>
+                      </li> 
+                            
+ 
+
+                  </ul> 
+                  <a href="/allnews" class="link-2 more-news-btn">Бiльше новин</a> 
+				  		<!-- Під стрічкою права колонка на внутрішніх -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-1004822577039825"
+							 data-ad-slot="3343013638"
+							 data-ad-format="auto"
+							 data-full-width-responsive="true"></ins>
+						<script>
+							 (adsbygoogle = window.adsbygoogle || []).push({});
+						</script>	
+                </section>
+              </aside> 
+            </div>			
+			
+          </article> 
+        </div><!-- END CONTAINER --> 
+</main>
+		</div><!-- END WRAPPER -->
+		<footer>
+			<!-- CONTAINER -->
+			<div class="container">
+				<!--<div>
+				
+					<span class="copyright">
+					</span>
+				</div>-->
+				<div>
+						  					<p>
+						Всі права захищені діючим законодавством України. Будь-яке порушення прав переслідується в судовому порядку. Будь-яке відтворення інформації з сайту дозволяється лише при дотриманні правил використання матеріалів. Редакція сайту залишає за собою право видаляти коментарі, які принижують честь і гідність людини, містять заклики до насильства, пропагують расову та національну ворожнечу, не відповідають морально-етичним нормам. © ТОВ "Телерадіокомпанія Рівне 1", 2026					</p>
+				
+						
+
+				
+					<ul class="footer__nav">
+						
+						                                 								  	 <li><a href="/category/2-vakansii">Вакансії</a></li>
+  																  	 <li><a href="/category/7-teleprohrama">Телепрограма</a></li>
+  																  	 <li><a href="/category/15-nashi-posluhi">Наші послуги</a></li>
+  																  	 <li><a href="/category/16-kontaktna-informatsiya">Контактна інформація</a></li>
+  																  	 <li><a href="/category/25-arkhiv">Архів</a></li>
+  																  	 <li><a href="/category/35-polityka-konfidentsiynosti">Політика конфіденційності</a></li>
+  								                              <!--  <li><a href="https://rivne1.tv/news/nashi-mozhlivosti">Реклама</a></li> -->
+					</ul>
+				</div>
+				<!-- <div>
+					<div class="footer__phones">
+						<a href="tel:+380362623501">(0362) 62-35-01</a>
+						<a href="tel:+380362635523">(0362) 63-55-23</a>
+						<a href="tel:+380961140011">(096) 114-00-11</a>
+					</div>
+				</div> -->
+			</div><!-- END CONTAINER -->
+		</footer>
+		<div class="overlay"></div>
+
+
+		     
+
+
+
+          	</div><!-- END CLOSE ANY CONTENT -->
+
+	<span class="back-top" title="↑"></span>
+
+	<div class="noSwipe modal-overlay">
+		<div class="modal">
+			<div>
+				<div class="modal__content">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="dn modal-content-1">
+		<h2>Пошук</h2>
+		<div class="form-1 search-form">
+			<input name="search" placeholder="Текст пошуку..." autocomplete="off" id="search_t">
+			<button type="submit" class="form-1__submit" id="search-form__submit" onclick="to_search()">Пошук</button>
+		</div>
+	</div>
+
+	<div class="mob-bl mob-bl-1"></div>
+
+	<!-- REJECT FOR LT IE 9 -->
+	<div class="reject_wrapper">
+		<div class="reject">
+			<div>
+				<p>
+					К сожалению, браузер, которым вы пользуетесь, морально устарел,
+					<br>и не может нормально отображать сайт.</p>
+				<p>Пожалуйста, скачайте любой из следующих браузеров:</p>
+
+				<ul>
+					<li>
+						<a href="https://www.google.com/chrome/">Chrome</a>
+					</li>
+					<li>
+						<a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>
+					</li>
+					<li>
+						<a href="http://www.opera.com/download">Opera</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- END REJECT FOR LT IE 9 -->
+
+	<!--[if lt IE 9]>
+	<!-->
+	<!-- <script src="/javascript/jquery-1.12.0.min.js"></script> ->
+	<!--<![endif]-->
+	<!--[if gte IE 9]>
+	<!-->
+	<!--<script src="/javascript/jquery-2.2.0.min.js"></script>-->
+	<!--<![endif]-->
+
+	<script defer src="/javascript/modernizr-custom.js"></script>
+	<script defer src="/javascript/fastclick.min.js"></script>
+	<script src="/javascript/lightbox.min.js"></script>
+		<script defer src="/javascript/jquery.touchSwipe.min.js"></script>
+	<!--<script src="/javascript/scripts.js?2"></script>-->
+		<script src="/javascript/scripts.js"></script>
+<script>
+           // $('#senvotte').removeAttr('disabled');
+            
+$(document).ready(function(){  
+    $(".vottimput").click()
+});
+
+$("#senvotte").click(function(el) {
+	//Здесь код //console.warn(el); //console.log($(this));
+	//alert('Сообщение');
+    el.preventDefault();
+    $.ajax({  
+        url: "http://rivne1.tv/news/sendvotte",  
+        cache: false,
+        type: "POST", 
+        data:$("#save_votte").serialize(), 
+        success: function(html){
+           $("#votesres").html(html);
+        }  
+    });
+    
+    
+    
+    
+    myFunctionvott();
+    
+    var senvotte = document.getElementById("senvotte");
+    senvotte.style.display = "none";
+    var votes = document.getElementById("votes");
+    votes.style.display = "none";
+});
+
+function myFunctionvott() {
+  var x = document.getElementById("votesres");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+</script> 
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"5ce0d96a14ef443089f83e83bf4bc2f1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
