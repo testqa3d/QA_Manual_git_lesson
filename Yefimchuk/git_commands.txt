@@ -4,3 +4,4 @@ git status
 git add .
 git commit -m "Add homework file"
 git push
+git pull
